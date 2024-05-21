@@ -2,14 +2,14 @@
 <div align="center">
 <!--   header -->
   <img src="https://capsule-render.vercel.app/api?type=venom&animation=twinkling&color=02343F&fontColor=F0EDCC&height=300&section=header&text=Hi~👋%20I'm%20Back-end%20Developer%20Te-Ho%20Lee&fontSize=40">
-  
- <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTe-H0&count_bg=%2379C83D&title_bg=%23555555&icon=docusign.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>-->
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=Te-H0&show_icons=true&theme=noctis_minimus">
-  <a href="https://github.com/Te-H0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Te-H0&theme=noctis_minimus&layout=compact" />
-  </a>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xogh8755">
+  <div>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xogh8755" width=25%>
+    <img src="https://github-readme-stats.vercel.app/api?username=Te-H0&show_icons=true&theme=noctis_minimus" width=40%>
+    <a href="https://github.com/Te-H0">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Te-H0&theme=noctis_minimus&layout=compact" width=25% />
+    </a>
+
+  </div>
 
   <br>
   <hr>
