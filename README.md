@@ -8,6 +8,10 @@
     <a href="https://github.com/Te-H0">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Te-H0&theme=noctis_minimus&layout=compact"/>
     </a>
+    <br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogh8755)](https://solved.ac/xogh8755/)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=xogh8755)](https://solved.ac/xogh8755)
 
   </div>
 
