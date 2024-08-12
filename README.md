@@ -4,14 +4,14 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&animation=twinkling&color=02343F&fontColor=F0EDCC&height=300&section=header&text=Hi~👋%20I'm%20Back-end%20Developer%20Te-Ho%20Lee&fontSize=40">
   <div>
 <!--     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xogh8755" > -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Te-H0&show_icons=true&theme=noctis_minimus">
+    <img height=200vh src="https://github-readme-stats.vercel.app/api?username=Te-H0&show_icons=true&theme=noctis_minimus">
     <a href="https://github.com/Te-H0">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Te-H0&theme=noctis_minimus&layout=compact"/>
+      <img height=200vh src="https://github-readme-stats.vercel.app/api/top-langs/?username=Te-H0&theme=noctis_minimus&layout=compact"/>
     </a>
-    <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogh8755)](https://solved.ac/xogh8755/)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=xogh8755)](https://solved.ac/xogh8755)
+<!--     <h3>I'm Studying Algorithm With Python!</h3> -->
+    <div align="center">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xogh8755">
+    </div>
 
   </div>
 
@@ -44,7 +44,7 @@
   </div>
   <h3> 🐣 Follow Me 🐣 </h3>
   <a href="https://te-ho.tistory.com"><img src="https://img.shields.io/badge/Tistory-cccccc?style=flat&logo=Tistory&logoColor=white"/></a>
-  <a href="mailto:xogh8755@gmail.com"><img src="https://img.shields.io/badge/xogh8755@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:teho.lee200@gmail.com"><img src="https://img.shields.io/badge/teho.lee200@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
   
 
   
