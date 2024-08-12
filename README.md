@@ -10,7 +10,7 @@
     </a>
 <!--     <h3>I'm Studying Algorithm With Python!</h3> -->
     <div align="center">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xogh8755">
+      <img height=200vh src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xogh8755">
     </div>
 
   </div>
